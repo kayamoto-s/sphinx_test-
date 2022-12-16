@@ -6,7 +6,7 @@
 Welcome to test_doc's documentation!
 ====================================
 
-v2.0.0
+v2.0.1
 
 .. toctree::
    :maxdepth: 2
