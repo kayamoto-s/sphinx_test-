@@ -29,5 +29,3 @@ html_static_path = ['_static']
 
 
 html_theme = 'sphinx_rtd_theme'
-
-latex_docclass = {'manual': 'jsbook'}
