@@ -16,7 +16,7 @@ release = '1.0.0'
 
 extensions = []
 
-# templates_path = ['_templates']
+templates_path = ['_templates']
 exclude_patterns = []
 
 language = 'ja'
@@ -28,4 +28,6 @@ language = 'ja'
 html_static_path = ['_static']
 
 
-# html_theme = 'sphinx_rtd_theme'
+html_theme = 'sphinx_rtd_theme'
+
+latex_engine = 'uplatex'
