@@ -3,8 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to test_doc's documentation!
+見出し
 ====================================
+これはてすとです
+漢字、カンジ
 
 v2.0.1
 
@@ -14,7 +16,7 @@ v2.0.1
 
 
 
-Indices and tables
+みだし２
 ==================
 
 * :ref:`genindex`
