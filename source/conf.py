@@ -21,6 +21,9 @@ exclude_patterns = []
 
 language = 'ja'
 
+gettext_compact = False
+locale_dirs = ['locale/']
+
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 

@@ -1,0 +1,53 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, test
+# This file is distributed under the same license as the test_doc package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: test_doc \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-22 14:11+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ko\n"
+"Language-Team: ko <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.11.0\n"
+
+#: ../../source/index.rst:13
+msgid "Contents:"
+msgstr "Contents"
+
+#: ../../source/index.rst:7
+msgid "見出し"
+msgstr "제목"
+
+#: ../../source/index.rst:8
+msgid "これはてすとです 漢字、カンジ"
+msgstr "테스트"
+
+#: ../../source/index.rst:11
+msgid "v2.0.1"
+msgstr "v2.0.1"
+
+#: ../../source/index.rst:20
+msgid "みだし２"
+msgstr "제목2"
+
+#: ../../source/index.rst:22
+msgid ":ref:`genindex`"
+msgstr "genindex"
+
+#: ../../source/index.rst:23
+msgid ":ref:`modindex`"
+msgstr "modindex"
+
+#: ../../source/index.rst:24
+msgid ":ref:`search`"
+msgstr "search"
+
